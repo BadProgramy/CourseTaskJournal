@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><SchoolStudents>
+    <SchoolStudent firstName="Иван" id="1" secondName="Иванов"/>
+    <SchoolStudent firstName="Петр" id="2" secondName="Петров"/>
+    <SchoolStudent firstName="Александр" id="3" secondName="Курягин"/>
+    <SchoolStudent firstName="Дмитрий" id="4" secondName="Логинов"/>
+    <SchoolStudent firstName="Олег" id="5" secondName="Хабиров"/>
+    
+<SchoolStudent firstName="Виктор" id="6" secondName="Крыслов"/></SchoolStudents>

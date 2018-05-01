@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<appconfig>
+    <datasourceXML>
+        <pathJournal>DataXML\Journals.xml</pathJournal>
+        <pathStudents>DataXML\SchoolStudents.xml</pathStudents>
+        <pathScores>DataXML\Scores.xml</pathScores>
+        <pathSchedules>DataXML\Schedules.xml</pathSchedules>
+        <pathSubjects>DataXML\Subjects.xml</pathSubjects>
+    </datasourceXML>
+</appconfig>

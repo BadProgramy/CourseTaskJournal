@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><SchoolJournals>
+
+    <ClassJournal id="1" name="11А">
+        <Subject id="1" name="mathematics">
+            <SchoolStudent id="1">
+                <Date id="1" idSchedule="1" idScore="6" idSubject="1"/>
+            </SchoolStudent>
+            <SchoolStudent id="2">
+                <Date id="1" idSchedule="1" idScore="6" idSubject="1"/>
+            </SchoolStudent>
+            <SchoolStudent id="3">
+                <Date id="1" idSchedule="1" idScore="6" idSubject="1"/>
+            </SchoolStudent>
+        </Subject>
+        <Subject id="2" name="history">
+            <SchoolStudent id="1">
+                <Date id="1" idSchedule="1" idScore="6" idSubject="2"/>
+            </SchoolStudent>
+            <SchoolStudent id="2">
+                <Date id="1" idSchedule="1" idScore="6" idSubject="2"/>
+            </SchoolStudent>
+            <SchoolStudent id="3">
+                <Date id="1" idSchedule="1" idScore="6" idSubject="2"/>
+            <Date id="2" idSchedule="1" idScore="1" idSubject="2"/></SchoolStudent>
+        </Subject>
+    </ClassJournal>
+    <ClassJournal id="2" name="11Б">
+        <Subject id="1" name="mathematics">
+            <SchoolStudent id="4">
+                <Date id="1" idSchedule="1" idScore="6" idSubject="1"/>
+            </SchoolStudent>
+            <SchoolStudent id="5">
+                <Date id="1" idSchedule="1" idScore="6" idSubject="1"/>
+            </SchoolStudent>
+            <SchoolStudent id="6">
+                <Date id="1" idSchedule="1" idScore="6" idSubject="1"/>
+            </SchoolStudent>
+        </Subject>
+        <Subject id="2" name="history">
+            <SchoolStudent id="4">
+                <Date id="1" idSchedule="1" idScore="6" idSubject="2"/>
+            </SchoolStudent>
+            <SchoolStudent id="5">
+                <Date id="1" idSchedule="1" idScore="6" idSubject="2"/>
+            </SchoolStudent>
+            <SchoolStudent id="6">
+                <Date id="1" idSchedule="1" idScore="6" idSubject="2"/>
+            </SchoolStudent>
+        </Subject>
+    </ClassJournal>
+</SchoolJournals>
